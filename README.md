@@ -9,14 +9,14 @@ In the early days, our developer account was investigated for more than a month 
 ## 1. In-app purchase closed
 Within a few days of our project's in-app purchase recharge function, our app was maliciously refunded by others with improper means, resulting in our loss of millions in a few days, so we chose to temporarily close in-app purchases to optimize us Recharge process.
 Below is a screenshot of our contact with an Apple expert:
-<img src="https://github.com/CreatFish/dev-account-flagged-removal/blob/master/Email.jpeg">
+<img src="https://github.com/CreatFish/dev-account-flagged-removal/blob/master/images/Email.jpeg">
 
 ## 2. Comment
 When we accumulated a large number of users, we received malicious attacks from various competitors similar to malicious appraisals of our App in the App Store, and our operations department also explained this on our fan platform.  And then we found that some faithful and spontaneous comments on our APP in the App Store to help us explain to other users. I don't know whether these actions have affected us.
 ## 3. Lawyer Letter
 We received an attorney letter from Beijing Weibo Vision Technology Co., Ltd. at the same time when we received the APP removal on 6.23. The attorney letter mentioned that we were suspected of imitating the Douyin short video application for unfair competition, and It is pointed out that we have several pages that are similar to the short video of their APP "抖音", which infringes on them and gives us 3 days to rectify the relevant UI. Although this is not our original intention and we also have related files such as soft works of our APP, we still take this incident very seriously and decided to rectify the relevant pages immediately to eliminate their misunderstandings and troubles.
 Here are some of the design drawings we are modifying:
-<img src="https://github.com/CreatFish/dev-account-flagged-removal/blob/master/UI.jpg">
+<img src="https://github.com/CreatFish/dev-account-flagged-removal/blob/master/images/UI.jpg">
 # How we feel
 As a startup company. At the beginning of our establishment, we just encountered the impact of the COVID-19 epidemic, and then the internal purchase of our App was maliciously refunded by others with improper means. Although these difficulties have caused us tremendous pressure, but these difficulties have never stopped the progress of our entire team, we have always been confident and determined to make an excellent product. But this time the arbitrary removal of APP made us feel desperate.
 Could you please tell us the specific reason? If you have any resources that could help, we appreciate if you contact me with: Email: 654070281@qq.com Phone: +86 18626869915. Apple ID of our App: 1493148811. Thank You!
